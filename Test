@@ -1,5 +1,7 @@
 int a= 5
-int b= 10
+int b= 20
 int sum = a+b
+Total =25
 prnt sum
 User LAKGHA
+Value changed...
